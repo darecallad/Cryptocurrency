@@ -1,5 +1,14 @@
 # Cryptocurrency App
 
+HomePage
+
+![image](https://github.com/darecallad/Cryptocurrency/assets/27443134/d8541774-4630-4103-8083-fdceee76d0ee)
+
+CryptoDetails
+![image](https://github.com/darecallad/Cryptocurrency/assets/27443134/c683343f-087f-4a2c-824a-b90c70fe6153)
+
+![image](https://github.com/darecallad/Cryptocurrency/assets/27443134/f286d5b2-5506-4d3d-9b2b-00024e2b2d15)
+
 ## Overview
 
 The Cryptocurrency App is a web application that allows users to view real-time data on various cryptocurrencies. It leverages React for its user interface and integrates with multiple API endpoints provided by [RapidAPI](https://rapidapi.com) to fetch data such as cryptocurrency prices, historical data, news, and more.
