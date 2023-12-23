@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your cryptocurrency app:
-
-````markdown
 # Cryptocurrency App
 
 ## Overview
@@ -33,6 +30,7 @@ To get started with the app, clone the repository to your local machine.
 git clone https://github.com/darecallad/cryptocurrency-app.git
 cd cryptocurrency-app
 ```
+
 ````
 
 Install the required dependencies.
@@ -75,17 +73,8 @@ You can preview the production build locally by running:
 npm run preview
 ```
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request with any features, fixes, or changes.
 
-## License
 
-[MIT](LICENSE)
 
-```
-
-Please replace `https://github.com/your-username/cryptocurrency-app.git` with the actual URL of your repository.
-
-This `README.md` provides a general overview of the application, its features, the technologies used, and instructions for installation, building, and contributing. You may want to expand each section with more details specific to your application or add additional sections as needed.
-```
+````
